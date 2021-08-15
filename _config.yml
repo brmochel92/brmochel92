@@ -41,7 +41,8 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brandon and I am currently attending Georgia Institue of Technology as a graduate student in pursuit of my Masters in Computer Science with a specialization in 
   Computing Systems.  I have 4 years of professional experience as a full-stack Software Developer, two of which was spent at IBM as a back-end developer. 
 
-  I am most skilled in: <mark>C#/.NET</mark> and <mark>SQL</mark>
+  I am most skilled in: <mark>C#/.NET</mark> and <mark>SQL</mark>, though I also know a number of other languages and stacks, such as <mark>Python/Django</mark> and <mark>Java/Spring Boot
+  </mark> and <mark>Node.js/React.js/Angular.js/jQuery</mark>
 
 content:
   - title: Projects # Title for the section
