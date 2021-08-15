@@ -43,7 +43,7 @@ content:
     content:
       - layout: top-middle
         title: Consumer Mart
-        link: github.com/sproogen
+        link: github.com/brmochel92/Consumer_Mart
         # link_text: Project Website
         additional_links:
           - title:  brmochel92/Consumer_Mart
