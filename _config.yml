@@ -56,6 +56,20 @@ content:
           Consumer Mart is a full-stack E-Commerce Web Application that was created with RESTful API services, a relational database, and an angular front-end which was 
           developed with the Repository/MVC architecture on .NET Core Framework.
 
+        title2: Consumer Mart
+        link2: github.com/brmochel92/Consumer_Mart
+        # link_text: Project Website
+        additional_links2:
+          - title:  brmochel92/Consumer_Mart
+            icon: fab fa-github
+            url: github.com/brmochel92/Consumer_Mart
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description2: | # this will include new lines to allow paragraphs
+          Consumer Mart is a full-stack E-Commerce Web Application that was created with RESTful API services, a relational database, and an angular front-end which was 
+          developed with the Repository/MVC architecture on .NET Core Framework.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -87,9 +101,6 @@ content:
       - Traveling
       - Reading
       - Home Lab
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
