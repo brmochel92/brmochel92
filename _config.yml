@@ -18,12 +18,6 @@ darkmode: true
 github_username:  brmochel92
 linkedin_username: brandonmochel
 
-
-# Additional icon links
-additional_links:
-- title: Fortune Cookie
-  icon: fas fa-globe
-  url: https://www.fortunecookie.cc/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -41,28 +35,26 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brandon and I am currently attending Georgia Institue of Technology as a graduate student in pursuit of my Masters in Computer Science with a specialization in 
   Computing Systems.  I have 4 years of professional experience as a full-stack Software Developer, two of which was spent at IBM as a back-end developer. 
 
-  I am most skilled in: <mark>C#/.NET</mark> and <mark>SQL</mark>, though I also know a number of other languages and stacks, such as <mark>Python/Django</mark> and <mark>Java/Spring Boot
-  </mark> and <mark>Node.js/React.js/Angular.js/jQuery</mark>
+  I am most skilled in: <mark>C#/.NET</mark> and <mark>.NET</mark>.  I also know Python, Java, Javascript (React, Angular, jQuery), HTML, and CSS.  
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Consumer Mart
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  brmochel92/Consumer_Mart
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/brmochel92/Consumer_Mart
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Consumer Mart is a full-stack E-Commerce Web Application that was created with RESTful API services, a relational database, and an angular front-end which was 
+          developed with the Repository/MVC architecture on .NET Core Framework.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -84,9 +76,9 @@ content:
       - layout: left
         title: Georgia Institute of Technology
         caption: 2016 - 2021
-        sub_title: BS Computer Science
+        sub_title: MS Computer Science
         description: | # this will include new lines to allow paragraphs
-          Magna Cum Laude - 3.75 GPA
+          
 
   - title: A Little More About Me
     layout: text
