@@ -12,7 +12,7 @@ email: brandonmochel@ieee.org
 website: https://brmochel92.github.io/brmochel92/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username:  brmochel92
@@ -70,12 +70,10 @@ content:
         title: IBM
         link: https://www.ibm.com/us-en/
         # link_text: ibm.com
-        sub_title: Back-End Developer
-        caption: August 2019 - Present
+        sub_title: Systems Services Representative
+        caption: August 2019 - August 2021
         description: | # this will include new lines to allow paragraphs
-          Created RESTful API services and documentation per client requirements and specifications.  Involved a lot of collaboration from day-to-day with other developers in a remote
-          environment.  Wrote complex SQL queries and worked with stored procedures on Oracle and other SQL relational databases such as IBM Db2.  Experience deploying microservices and 
-          applications on IBM Cloud and working with containers such as docker or k8s.  
+        Break-Fix hardware technician servicing a variety of servers and systems;  AIX/Linux OS training;  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
