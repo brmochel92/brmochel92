@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: brmochel92/brmochel92
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -12,7 +12,7 @@ email: brandonmochel@ieee.org
 website: https://brmochel92.github.io/brmochel92/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 github_username:  brmochel92
@@ -32,10 +32,17 @@ linkedin_username: brandonmochel
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brandon and I am currently attending Georgia Institue of Technology as a graduate student in pursuit of my Masters in Computer Science with a specialization in 
-  Computing Systems.  I have 4 years of professional experience as a full-stack Software Developer, two of which was spent at IBM as a back-end developer. 
+  Hi, my name's Brandon and I am currently attending the Georgia Institute of Technologies MS CS program (OMSCS) with a specialization
+  in Machine Learning.  
+  
+  My most recent role was a Systems Services Representative at IBM where I was involved with a lot of hardware repairs on various servers
+  and workstations.  Prior to this, I was a recruiter and the sole developer at AMB Construction (designed web page, integrated and created
+  database) for a little over two years.  
 
-  I am most skilled in: <mark>C#</mark> and <mark>.NET</mark>.  I also know Python, Java, Javascript (React, Angular, jQuery), HTML, and CSS.  
+  My goal is to find a software company where I am able to collaborate as well as work on larger-scale projects, since this is something
+  I currently lack.  I have no problem working an associate-level position to prove myself before working into a more graduated role.
+
+  I am most skilled in: <mark>Python</mark> and <mark>C#</mark>.  I also know Java, Javascript (React, Angular, jQuery), HTML, CSS, and SQL.  
 
 content:
   - title: Projects # Title for the section
