@@ -73,7 +73,7 @@ content:
         sub_title: Systems Services Representative
         caption: August 2019 - August 2021
         description: | # this will include new lines to allow paragraphs
-        Break-Fix hardware technician servicing a variety of servers and systems;  AIX/Linux OS training;  
+          Break-Fix hardware technician servicing a variety of servers and systems;  AIX/Linux OS training;  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
